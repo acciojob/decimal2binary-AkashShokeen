@@ -8,4 +8,4 @@ const result = number.toString(num);
 console.log(result);
 }
 
-window.decimalToBinary = decimalToBinary;
+window.decimalToBinary = decimalToBinary();
