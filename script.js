@@ -3,7 +3,7 @@ function decimalToBinary(num) {
  
 const number = parseInt(num);
 
-const result = number.toString(2);
+const result = number.toString(num);
 
 console.log(result);
 }
